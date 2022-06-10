@@ -50,7 +50,7 @@
 
 
 // // Module d'un autre fichier : require("emplacement_du_fichier")
-// // on prend crée un module dans scolaire.js
+// // on crée un module dans scolaire.js
 // require("./scolaire.js");
 
 const Variable = require("./scolaire.js");
